@@ -1,1 +1,1 @@
-Beginner Data Analytics Proejects
+Beginner Data Analytics Projects
